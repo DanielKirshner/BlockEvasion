@@ -9,13 +9,20 @@
 ## **Game Screenshots**
 ![ingame screeenshot](https://lh3.googleusercontent.com/pw/ACtC-3edTrlVlzd3LBJw4sAENj10Nx_Wcl3q0m3VkIsVRBq6Oz2e8x9YUZkXUaA-gP8bTAFlfJUE7SV4sTYFjZDAXx5wpSBeHhlJAFAnFK4Mjg5yXIRUn0EfvF3lKk_WCl7oUopt9mQ3tY3oTG8JGyQVecY=w216-h384-no?authuser=0)
 ![game stats screen](https://lh3.googleusercontent.com/pw/ACtC-3eC0-ILlw8QFn4qhswlTgOJoxpnJEwMHjjZIvkzMa4okHxRUgB1zJiRjD1GQHfNdLzh9pgicRQ38bhG29dMWAAcCLNVjuqpYRCVBZMgbTcl2HMw5cVNy1GvGgYthJpCm-hXXsSynNEPXP887A3u5I0=w216-h384-no?authuser=0)
-![the characters](https://lh3.googleusercontent.com/pw/ACtC-3fq7333sMtXIEHKRfWWiPHN2B0E5ij8dI-gnGZ2SOqUg5Qm_qmbOKfXbMISSYM2pBrK0_weXF-v0OBxVbLJQ9MP4jRaMb-9nRhMZ9YMQV7sx7reYPXAPIWJqWpC2oifyKU2T2mKjVLVeN3KxkDJo-w=w431-h117-no?authuser=0)
+![ingame2_screenshot](https://lh3.googleusercontent.com/pw/ACtC-3cHUmytpi5peTtx6fkHBLVLghCBOGTnrud2Gs_5lp_O1Co5xpMVxgJIAbKDGDfE_yv9qJL0L0r1tqV9UPTc8odQzc-KoVNy70-4YxdKuyRi4Gtej1K0D6R3CBxvlKHvwzqRi5_sK8nImCWfplTh1SA=w216-h384-no?authuser=0)
+
+![characters](https://lh3.googleusercontent.com/pw/ACtC-3fq7333sMtXIEHKRfWWiPHN2B0E5ij8dI-gnGZ2SOqUg5Qm_qmbOKfXbMISSYM2pBrK0_weXF-v0OBxVbLJQ9MP4jRaMb-9nRhMZ9YMQV7sx7reYPXAPIWJqWpC2oifyKU2T2mKjVLVeN3KxkDJo-w=w431-h117-no?authuser=0)
+
 ## How to install the game
 1. Connect your android device to your computer via USB cable
 2. Copy the app-debug.apk file to your device
 3. Open it and install:
+
 ![install](https://lh3.googleusercontent.com/pw/ACtC-3fySNWMlrI0t6RNoYB26MZkP4j56LGhVeeiFye0JFTrZdQOXYKXff1NYDjLVEunMok9-gO5gGbpt-LlP71J_bNv-i9Z_rJ60W8ftDS7SiBfgvbqa2-2zhkuO1vwMb6DOMyEY5-nkNui3mDRtybecOk=w324-h684-no?authuser=0)
-4. In the new android versions there is a block message from "Play Protect" services, that's because my game don't have google play certificate - Choose "INSTALL ANYWAY"
+
+4. In the new android versions there is a block message from "Play Protect" services, 
+that's because my game don't have google play certificate - Choose "INSTALL ANYWAY":
+
 ![install anyway](https://lh3.googleusercontent.com/pw/ACtC-3dhTl_rq--Ns9q2iZIwMr5eJNgCqw76J0s4R4gc3XCGGxyn68hw4UKvZFcGf3PL0MbzbC_3Xdvw456jvGpZy1i9L899QR22NG8_wp2PEnW6rETYZXF5dogu6t29m-PVh_x_kXMLAkIFK_PBSCFDdtM=w324-h684-no?authuser=0)
 5. Wait for the installation to finish and play the game!
 ## Recent bug fixed
