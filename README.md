@@ -18,12 +18,13 @@
 2. Copy the app-debug.apk file to your device
 3. Open it and install:
 
-![install](https://lh3.googleusercontent.com/pw/ACtC-3fySNWMlrI0t6RNoYB26MZkP4j56LGhVeeiFye0JFTrZdQOXYKXff1NYDjLVEunMok9-gO5gGbpt-LlP71J_bNv-i9Z_rJ60W8ftDS7SiBfgvbqa2-2zhkuO1vwMb6DOMyEY5-nkNui3mDRtybecOk=w324-h684-no?authuser=0)
+![install](https://lh3.googleusercontent.com/pw/ACtC-3dpKt5q91ywZ8GDjCpPtDCIPfLG_UdEDYt-rz6V7fXnDxr6k14pVAXSSUUkjs1VQ_N7H5oAc36lkffUP8ME4MrDJMpJwF_zAZPSY0tsBE56gqsGx7svAGJ7bcbDV6FPxVtkzzv6GeEs2wNXajBWqrY=w195-h411-no?authuser=0)
 
 4. In the new android versions there is a block message from "Play Protect" services, 
 that's because my game don't have google play certificate - Choose "INSTALL ANYWAY":
 
-![install anyway](https://lh3.googleusercontent.com/pw/ACtC-3dhTl_rq--Ns9q2iZIwMr5eJNgCqw76J0s4R4gc3XCGGxyn68hw4UKvZFcGf3PL0MbzbC_3Xdvw456jvGpZy1i9L899QR22NG8_wp2PEnW6rETYZXF5dogu6t29m-PVh_x_kXMLAkIFK_PBSCFDdtM=w324-h684-no?authuser=0)
+![install anyway](https://lh3.googleusercontent.com/pw/ACtC-3cyGl63KgKkKeSo3-pwFyRMDoe82vIRQBVCkklvHyx9abM9Ou34KjrLCiiTMZ6jR5PcGFPZnZgX_GqCP8aE8tPB-rUbZYVvLhxCGWhC_k173ziTLYO06aeCIVFGa60s0IsXXkaRhna48j2xJM3oGF8=w195-h411-no?authuser=0)
+
 5. Wait for the installation to finish and play the game!
 ## Recent bug fixed
 * Game stop running while you are in the "last apps opened" android menu
