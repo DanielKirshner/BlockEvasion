@@ -2,7 +2,7 @@
 ## Description
 **Block Evasion is an android game-app developed in Android Studio.**
 * The main goal is to avoid the blocks by moving your character, as long as you survive - the blocks becoming faster!
-* There is also a "Game Stats" screen which displays your high score and how many games you have played
+* There is also a "Game Stats" screen which displays your high score and how many games you have been played
 * I made all of the graphics and the sprites with the great GIMP software
 * I made all of the game soundtrack by myself with FL-Studio
 
@@ -20,8 +20,8 @@
 
 ![install](https://lh3.googleusercontent.com/pw/ACtC-3dpKt5q91ywZ8GDjCpPtDCIPfLG_UdEDYt-rz6V7fXnDxr6k14pVAXSSUUkjs1VQ_N7H5oAc36lkffUP8ME4MrDJMpJwF_zAZPSY0tsBE56gqsGx7svAGJ7bcbDV6FPxVtkzzv6GeEs2wNXajBWqrY=w195-h411-no?authuser=0)
 
-4. In the new android versions there is a block message from "Play Protect" services, 
-that's because my game don't have google play certificate - Choose "INSTALL ANYWAY":
+4. In the new android versions there is a block message from the "Play Protect" services, 
+that's because my game doesn't have the google play certificate - Choose "INSTALL ANYWAY":
 
 ![install anyway](https://lh3.googleusercontent.com/pw/ACtC-3cyGl63KgKkKeSo3-pwFyRMDoe82vIRQBVCkklvHyx9abM9Ou34KjrLCiiTMZ6jR5PcGFPZnZgX_GqCP8aE8tPB-rUbZYVvLhxCGWhC_k173ziTLYO06aeCIVFGa60s0IsXXkaRhna48j2xJM3oGF8=w195-h411-no?authuser=0)
 
