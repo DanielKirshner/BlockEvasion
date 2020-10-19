@@ -31,6 +31,15 @@ that's because my game doesn't have the google play certificate - Choose "INSTAL
 * Game stop running while your device is locked
 * The game resolution now works on Galaxy S10 & Galaxy S10+ and you can clearly see the game and not just the player
 
+## List of devices the game has been tested on
+* Samsung Galaxy S6
+* Samsung Galaxy S7 Edge
+* Samsung Galaxy S10
+* Samsung Galaxy S10+
+* Samsung Galaxy A50
+* Xiaomi Redmi 5A
+* Huawei p10
+
 ## Future upgrades
 * Pause button
 * Background animation
