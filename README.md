@@ -49,3 +49,5 @@ that's because my game doesn't have the google play certificate - Choose "INSTAL
 
 
 Enjoy the game!
+
+© 2020 Daniel Kirshner.  All rights reserved.
