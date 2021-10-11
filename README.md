@@ -37,8 +37,11 @@ that's because my game doesn't have the google play certificate - Choose "INSTAL
 * Samsung Galaxy S10
 * Samsung Galaxy S10+
 * Samsung Galaxy A50
+* Samsung Galaxy S21
+* Samsung Galaxy S21 Ultra
 * Xiaomi Redmi 5A
 * Huawei p10
+* Amazon fire tablet
 
 ## Future upgrades
 * Pause button
